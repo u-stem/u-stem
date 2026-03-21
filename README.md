@@ -27,3 +27,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-stem&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
   </picture>
 </p>
+
+<!-- Streak -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=u-stem&theme=github-dark-blue&hide_border=true&background=00000000">
+    <img src="https://streak-stats.demolab.com/?user=u-stem&theme=default&hide_border=true&background=00000000" />
+  </picture>
+</p>
