@@ -15,18 +15,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,rust,go,bun,docker,git,github,vscode&theme=dark">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,bun,docker,git,github,vscode&theme=light" />
-  </picture>
-</p>
-
-<!-- Trophy -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=u-stem&theme=darkhub&no-frame=true&no-bg=true&column=-1">
-    <img src="https://github-profile-trophy.vercel.app/?username=u-stem&theme=flat&no-frame=true&no-bg=true&column=-1" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,bun,docker,git,github,vscode&theme=dark" />
 </p>
 
 <!-- GitHub Stats -->
