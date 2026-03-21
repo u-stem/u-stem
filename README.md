@@ -7,13 +7,25 @@
 </p>
 
 <!-- Bio -->
-<p align="center">Software Developer</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=764BA2&center=true&vCenter=true&width=435&lines=Software+Developer;Building+things+with+code" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Tech Stack -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,rust,go,bun,docker,git,github,vscode&theme=dark">
     <img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,bun,docker,git,github,vscode&theme=light" />
+  </picture>
+</p>
+
+<!-- Trophy -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=u-stem&theme=darkhub&no-frame=true&no-bg=true&column=-1">
+    <img src="https://github-profile-trophy.vercel.app/?username=u-stem&theme=flat&no-frame=true&no-bg=true&column=-1" />
   </picture>
 </p>
 
@@ -50,5 +62,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/u-stem/u-stem/output/snake-dark.svg">
     <img src="https://raw.githubusercontent.com/u-stem/u-stem/output/snake.svg" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&theme=dark">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&theme=default" />
   </picture>
 </p>
