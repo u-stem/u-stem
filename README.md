@@ -43,6 +43,22 @@
   </picture>
 </p>
 
+<!-- Summary Cards -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u-stem&theme=github_dark&utcOffset=9">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u-stem&theme=default&utcOffset=9" height="180" align="center" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=u-stem&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=u-stem&theme=default" height="180" align="center" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u-stem&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u-stem&theme=default" height="180" align="center" />
+  </picture>
+</p>
+
 <!-- Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/u-stem/u-stem/master/snake-dark.svg" />
