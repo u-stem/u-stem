@@ -1,12 +1,12 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=200&section=header&text=stem&fontColor=ffffff&fontSize=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=200&section=header" />
 </p>
 
 <!-- Bio -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=764BA2&center=true&vCenter=true&width=435&lines=Software+Developer;Building+things+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=764BA2&center=true&vCenter=true&width=435&lines=u-stem;Software+Developer;Building+things+with+code" alt="Typing SVG" />
   </a>
 </p>
 
