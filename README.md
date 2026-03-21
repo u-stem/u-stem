@@ -39,7 +39,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=u-stem&theme=github-dark&hide_border=true&bg_color=00000000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=u-stem&theme=github-light&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=u-stem&theme=github-light&hide_border=true&bg_color=00000000" width="750" />
   </picture>
 </p>
 
@@ -47,7 +47,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u-stem&theme=github_dark&utcOffset=9">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u-stem&theme=default&utcOffset=9" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u-stem&theme=default&utcOffset=9" width="750" />
   </picture>
 </p>
 
