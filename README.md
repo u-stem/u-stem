@@ -43,3 +43,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=u-stem&theme=github-light&hide_border=true&bg_color=00000000" />
   </picture>
 </p>
+
+<!-- Snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/u-stem/u-stem/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/u-stem/u-stem/output/snake.svg" />
+  </picture>
+</p>
