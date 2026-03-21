@@ -20,8 +20,11 @@ jobs:
             dist/snake.svg?palette=github
             dist/snake-dark.svg?palette=github-dark
 
-      - uses: peaceiris/actions-gh-pages@v4
+      - run: |
+          cp dist/snake.svg snake.svg
+          cp dist/snake-dark.svg snake-dark.svg
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+          commit_message: "chore: update snake animation SVGs"
+          file_pattern: "snake.svg snake-dark.svg"

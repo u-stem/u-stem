@@ -49,15 +49,12 @@
 <!-- Snake -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/u-stem/u-stem/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/u-stem/u-stem/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/u-stem/u-stem/master/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/u-stem/u-stem/master/snake.svg" />
   </picture>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&theme=dark">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&theme=default" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
 </p>
