@@ -7,3 +7,11 @@
 </p>
 
 <p align="center">Software Developer</p>
+
+<!-- Tech Stack -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,rust,go,bun,docker,git,github,vscode&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,bun,docker,git,github,vscode&theme=light" />
+  </picture>
+</p>
