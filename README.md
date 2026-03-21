@@ -18,8 +18,8 @@
 <!-- GitHub Stats -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=u-stem&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api?username=u-stem&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=u-stem&show_icons=true&custom_title=GitHub+Stats&theme=github_dark&hide_border=true&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=u-stem&show_icons=true&custom_title=GitHub+Stats&theme=default&hide_border=true&bg_color=00000000" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=u-stem&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000">
