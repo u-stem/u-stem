@@ -6,6 +6,7 @@
   </picture>
 </p>
 
+<!-- Bio -->
 <p align="center">Software Developer</p>
 
 <!-- Tech Stack -->
